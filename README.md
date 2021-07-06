@@ -14,7 +14,7 @@ Der Bot kann aktuel nur normale Einsätze abarbeiten. Geplante einsätze und Kra
 
 Wenn ein fehler auftrit, diesen bitte melden. Ich werde mich dann so schnell wie möglich darum kümmern.	
 
-Der Bot kann https://github.com/GurkeHDd/Free-Leitstellenspiel.de-BOT gedownloaded werden
+Der Bot kann auf https://github.com/GurkeHDd/Free-Leitstellenspiel.de-BOT gedownloaded werden
 
 
 
