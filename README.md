@@ -36,3 +36,5 @@ By using the Bot u accept the called rules!
 **USE AT YOUR OWN RISK!!!**
 
 **BENUTZUNG AUF EIGENE GEFAHR!!!**
+
+Version: 1.0.1
