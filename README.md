@@ -22,7 +22,7 @@ Es gibt jetzt einen Discord-Server für den Bot "https://discord.gg/rfsbgYwJUQ"
 
 
 
-
+----------------------------------------------------------------------------
 
 It isn't allowed to decompile the Bot!
 
