@@ -16,6 +16,7 @@ Wenn ein fehler auftrit, diesen bitte melden. Ich werde mich dann so schnell wie
 
 Der Bot kann auf https://github.com/GurkeHDd/Free-Leitstellenspiel.de-BOT gedownloaded werden
 
+Es gibt jetzt einen Discord-Server für den Bot "https://discord.gg/rfsbgYwJUQ"
 
 
 
