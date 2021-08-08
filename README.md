@@ -6,7 +6,7 @@ Um den Bot zu Benutzen, einfgach die Datei "start.bat" ausführen
 
 Benutzername und Passwort in die Config Datei eintragen	
 
-WICHTIG! Das der Bot funktioniert mus in der Leitstelle das Fensterdesign ausgewählt sein!!!
+WICHTIG! Das der Bot funktioniert muss in der Leitstelle das Fensterdesign ausgewählt sein!!!
 
 In der Config Datei können Ebenso Die Zeiten die der Bot zwischen bestimmten aktionen wartet eingestellt werden.(am besten so lassen wie sie dort stehen)	
 
