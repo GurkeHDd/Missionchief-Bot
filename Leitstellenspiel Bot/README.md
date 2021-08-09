@@ -30,4 +30,4 @@ USE AT YOUR OWN RISK!!!
 
 BENUTZUNG AUF EIGENE GEFAHR!!!
 
-Version: 1.0.3
+Version: 1.0.4
