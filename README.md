@@ -32,7 +32,7 @@ It isn't allowed to share or resell the Bot!
 
 Use at your own risk!
 
-By using the Bot u accept the called rules!
+By using the Bot you accept the called rules!
 
 **USE AT YOUR OWN RISK!!!**
 
