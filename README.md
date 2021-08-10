@@ -38,4 +38,4 @@ By using the Bot you accept the called rules!
 
 **BENUTZUNG AUF EIGENE GEFAHR!!!**
 
-Version: 1.0.5
+Version: 1.1.0
