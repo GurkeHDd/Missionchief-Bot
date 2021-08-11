@@ -1,1 +1,1 @@
-{"requirements":{},"missionID":222,"credits":810,"missionName":"Zatrucie pokarmowe"}
+{"requirements":{"firetrucks":1,"heavy_rescue_vehicles":1,"police_cars":1},"missionID":222,"credits":1550,"missionName":"Acidente de Trabalho"}
