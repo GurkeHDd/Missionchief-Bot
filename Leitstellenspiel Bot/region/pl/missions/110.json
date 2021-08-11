@@ -1,1 +1,1 @@
-{"requirements":{},"missionID":110,"credits":0,"missionName":"Ciężki uraz miednicy"}
+{"requirements":{"water_tankers":1,"battalion_chief_vehicles":1,"firetrucks":5},"missionID":110,"credits":3000,"missionName":"Incêndio num aterro sanitário"}

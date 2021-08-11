@@ -1,1 +1,1 @@
-{"requirements":{},"missionID":126,"credits":0,"missionName":"Zadławienie"}
+{"requirements":{"water_tankers":1,"battalion_chief_vehicles":2,"platform_trucks":2,"mobile_air_vehicles":1,"firetrucks":8,"police_cars":3},"missionID":126,"credits":8000,"missionName":"Grande Incêndio num Hotel"}
