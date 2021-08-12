@@ -28,10 +28,14 @@ By using the Bot you accept the called rules!
 
 **BENUTZUNG AUF EIGENE GEFAHR!!!**
 
-- You can contact me via Discord
-- The Bot is free for everyone
-- It isn't allowed to resell or republish the Bot
-- PCH
-- PCH
+You can contact me via Discord
+
+The Bot is free for everyone
+
+It isn't allowed to resell or republish the Bot
+
+PCH
+
+PCH
 
 Version: 1.1.0
