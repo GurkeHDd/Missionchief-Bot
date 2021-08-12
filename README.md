@@ -1,4 +1,4 @@
-# Bot for leitstellenspiel.de, missionchief.com, missionchief-australia.com, operacni-stredisko.cz, alarmcentral-spil.dk, www.centro-de-mando.es, operateur112.fr, operatore112.it, missionchief-japan.com, meldkamerspel.com, nodsentralspillet.com, operatorratunkowy.pl, larmcentralen-spelet.se, missionchief.co.uk, dispetcher112.ru, jocdispecerat112.com, operador112.com and 112-merkez.com.
+# Bot for leitstellenspiel.de, missionchief.com, missionchief-australia.com, operacni-stredisko.cz, alarmcentral-spil.dk, operateur112.fr, operatore112.it, missionchief-japan.com, meldkamerspel.com, nodsentralspillet.com, operatorratunkowy.pl, larmcentralen-spelet.se, missionchief.co.uk, dispetcher112.ru, jocdispecerat112.com, operador112.com and 112-merkez.com.
 
 ----------------------------------------------------------------------------
 
