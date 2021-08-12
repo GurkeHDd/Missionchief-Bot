@@ -16,6 +16,11 @@ If you are using one of the previously listed versions you can write to me on Di
 
 ----------------------------------------------------------------------------
 
+
+
+
+
+
 It isn't allowed to decompile the Bot!
 
 The Bot is free for everyone!
