@@ -1,24 +1,16 @@
-# Bot-für-Leitstellenspiel.de
+# Bot for leitstellenspiel.de, missionchief.com, missionchief-australia.com, operacni-stredisko.cz, alarmcentral-spil.dk, www.centro-de-mando.es, operateur112.fr, operatore112.it, missionchief-japan.com, meldkamerspel.com, nodsentralspillet.com, operatorratunkowy.pl, larmcentralen-spelet.se, missionchief.co.uk, dispetcher112.ru, jocdispecerat112.com, operador112.com and 112-merkez.com.
 
-Der bot funktioniert aktuell nur auf Windows.	
+----------------------------------------------------------------------------
 
-Um den Bot zu Benutzen, einfgach die Datei "start.bat" ausführen	
+To use the bot you have to put your username, password and region in the config file and you need the Java version (16.0.1+)
 
-Benutzername und Passwort in die Config Datei eintragen	
+The bot can be downloaded from "https://github.com/GurkeHDd/Free-Leitstellenspiel.de-BOT".
 
-WICHTIG! Das der Bot funktioniert muss in der Leitstelle das Fensterdesign ausgewählt sein!!!
+There is now a Discord server for the bot "https://discord.gg/rfsbgYwJUQ".
 
-In der Config Datei können Ebenso Die Zeiten die der Bot zwischen bestimmten aktionen wartet eingestellt werden.(am besten so lassen wie sie dort stehen)	
-
-Der Bot kann aktuel nur normale Einsätze abarbeiten. Geplante einsätze und Krankentransporte werden aktuell noch nicht bearbeitet.	
-
-Wenn ein fehler auftrit, diesen bitte melden. Ich werde mich dann so schnell wie möglich darum kümmern.	
-
-Der Bot kann auf https://github.com/GurkeHDd/Free-Leitstellenspiel.de-BOT gedownloaded werden
-
-Es gibt jetzt einen Discord-Server für den Bot "https://discord.gg/rfsbgYwJUQ"
-
-
+THE VERSIONS "US,AU,CZ,DK,ES,FR,IT,JP,NL,NO,PL,SE,UK,RU,RO,PT,TU" are not yet fully functional!
+The versions work anyway! You just have to create the missing.json yourself!
+If you are using one of the previously listed versions you can write to me on Discord and help to complete the versions 
 
 
 
