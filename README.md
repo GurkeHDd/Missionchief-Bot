@@ -7,7 +7,7 @@ To use the bot you have to put your username, password and region in the config 
 The bot can be downloaded from "https://github.com/GurkeHDd/Free-Leitstellenspiel.de-BOT".
 
 THE VERSIONS "US,AU,CZ,DK,ES,FR,IT,JP,NL,NO,PL,SE,UK,RU,RO,PT,TU" are not yet fully functional!
-The versions work anyway! You just have to create the missing.json yourself!
+The versions work anyway! You just have to create the missing.json yourself! (missing.json file currently only works for the version "DE" !)
 
 ----------------------------------------------------------------------------
 
