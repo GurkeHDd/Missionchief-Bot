@@ -8,7 +8,6 @@ The bot can be downloaded from "https://github.com/GurkeHDd/Free-Leitstellenspie
 
 THE VERSIONS "US,AU,CZ,DK,ES,FR,IT,JP,NL,NO,PL,SE,UK,RU,RO,PT,TU" are not yet fully functional!
 The versions work anyway! You just have to create the missing.json yourself!
-If you are using one of the previously listed versions you can write to me on Discord and help to complete the versions 
 
 ----------------------------------------------------------------------------
 
